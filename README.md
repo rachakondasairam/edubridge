@@ -1,2 +1,0 @@
-# edubridge
-final projcet
